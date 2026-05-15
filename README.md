@@ -2,6 +2,7 @@
 
 ชุดเครื่องมือ Python สำหรับทดสอบความปลอดภัยบนอุปกรณ์เครือข่ายและ IoT  
 เช่น IP Camera, DVR/NVR — ด้วยวิธีการ Port Scanning และ Device Fingerprinting
+สแกนหาในวงแลน btw
 
 ---
 
