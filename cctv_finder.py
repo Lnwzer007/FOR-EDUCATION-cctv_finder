@@ -83,7 +83,7 @@ class CCTVFinder:
     def run(self):
         """เริ่มกระบวนการสแกนตามช่วง IP ที่กำหนดไว้"""
         print("-" * 70)
-        print(f" CCTV-Finder | Inwzer007
+        print(f" CCTV-Finder | Inwzer007 ")
         print(f" Target Range : {self.subnet}{self.start_ip} - {self.subnet}{self.end_ip}")
         print(f" Timestamp    : {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print("-" * 70)
