@@ -25,7 +25,7 @@ pip install PySocks requests urllib3
 
 ใช้สองวิธีร่วมกันเพื่อระบุตัวตนของอุปกรณ์:
 
-**① Port-based Detection** — พอร์ต SDK เฉพาะทางของแต่ละแบรนด์
+**Port-based Detection** — พอร์ต SDK เฉพาะทางของแต่ละแบรนด์
 
 ```
 Port 8000  → Hikvision Device (SDK Port)
@@ -33,7 +33,7 @@ Port 37777 → Dahua Device (SDK Port)
 Port 554   → Generic RTSP Stream
 ```
 
-**② Web Fingerprinting** — วิเคราะห์ HTTP Response Header และ HTML Body
+**Web Fingerprinting** — วิเคราะห์ HTTP Response Header และ HTML Body
 
 ```
 Server: hikvision-webs  → Hikvision
